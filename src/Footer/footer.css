@@ -1,0 +1,21 @@
+.main-footer{
+    color:white;
+    background-color: black;
+    position: center;
+    bottom: 0;
+    width:100%;
+    margin-top: 650px;
+}
+.col1{
+    float:right;
+    margin-top: -122px;
+    margin-right: 40px;
+}
+
+.col{
+    margin-left: 40px;
+}
+.row{
+    padding-bottom: 15px;
+}
+
